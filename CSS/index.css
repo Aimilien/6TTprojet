@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f8d700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50em;
+    text-align: center;
+}
+
+h1 {
+    color: #ff6b6b;
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+a {
+    color: white;
+    background-color: #ff6b6b;
+    padding: 15px;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 50px;
+}
+
+a:hover {
+    background-color: #ff4747; 
+}
